@@ -71,6 +71,13 @@ Returns a list of image objects with the following attributes (caption, url, wid
     1. Python 2.7+
     2. Python requests - python-requests.org
 
+## Installation
+
+To install imdbpie, simply:
+```bash
+$ pip install imdbpie
+```
+
 ## Tests
 
     Test .py files can be found in /tests, run these to ensure ImdbPie is working 100%.
